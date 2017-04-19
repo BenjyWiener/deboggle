@@ -1,0 +1,9 @@
+[package]
+
+name = "deboggle"
+version = "1.0.0"
+authors = [ "Benjy Wiener <benjy@benjywiener.com>" ]
+
+[dependencies]
+
+regex = "0.2.1"
